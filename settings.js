@@ -5,19 +5,19 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~l1g0URTa#hgGdbBrwBIGlNiJFzeXAgWwTkzHjq4rYCD2y1KZTDhM",
 // add your Session Id ,session id starts with MALVIN-XD~
 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "✦ᴍᴀʟᴠɪɴ xᴅ v2✦",
+BOT_NAME: process.env.BOT_NAME || "𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ",
 // add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react   
 
-STICKER_NAME: process.env.STICKER_NAME || "✦MALVIN-XD✦",
+STICKER_NAME: process.env.STICKER_NAME || "𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ",
 // type sticker pack name  
 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
@@ -26,22 +26,22 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923068176087",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
+OWNER_NAME: process.env.OWNER_NAME || "𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "> *𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ*",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/3akxxx.jpg",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/gld2vo.jpg",
+MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/3akxxx.jpg",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
+LIVE_MSG: process.env.LIVE_MSG || "> 𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ 𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -62,7 +62,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto react on status (still testing)
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ✦ᴍᴀʟᴠɪɴ xᴅ v2🚀🔥✦*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by 𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑𝐉𝐄𝐄𝐋𓆪͓ ࿐ᷟ  ཐི༏ཋྀ*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
